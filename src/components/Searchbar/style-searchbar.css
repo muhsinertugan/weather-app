@@ -1,0 +1,27 @@
+
+.searchbar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0 auto;
+    padding: 3rem;
+    background-color: rgb(240, 248, 255, 0.35);
+
+    
+}
+
+input{
+    width: 75%;
+    padding: 5px;
+    border-radius: 10px;
+    background: transparent;
+}
+
+button {
+    padding: 6px;
+    border-radius: 10px;
+
+}
